@@ -21,7 +21,7 @@ Mais dados podem ser encontrados na classe "MiniBD"
 
 #Arquivos Adicionais e seus criadores
 
-Requisitos e Prototipagem 
+Requisitos, Prototipagem e Diagrama
 
 - Pablo Wendell;
 - Nathan Castelo Branco;
@@ -31,6 +31,6 @@ Documentação
 
 - Clarice Ellen
 
-Código
+Código e Video de Demonstração
 
 - Marcos Vinicius
