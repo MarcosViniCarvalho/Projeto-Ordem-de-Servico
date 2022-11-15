@@ -21,14 +21,16 @@ Mais dados podem ser encontrados na classe "MiniBD"
 
 #Arquivos Adicionais e seus criadores
 
-- Requisitos e Prototipagem 
+Requisitos e Prototipagem 
 
-Pablo Wendell, Nathan Castelo Branco e Ryquelme Cabral.
+- Pablo Wendell;
+- Nathan Castelo Branco;
+- Ryquelme Cabral;
 
-- Documentação
+Documentação
 
-Clarice Ellen
+- Clarice Ellen
 
-- Código
+Código
 
-Marcos Vinicius
+- Marcos Vinicius
