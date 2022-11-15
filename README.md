@@ -18,3 +18,17 @@ CPF Cliente 1 : 11223344551
 CPF Cliente 2 : 33224455667
 
 Mais dados podem ser encontrados na classe "MiniBD"
+
+#Arquivos Adicionais e seus criadores
+
+- Requisitos e Prototipagem 
+
+Pablo Wendell, Nathan Castelo Branco e Ryquelme Cabral.
+
+- Documentação
+
+Clarice Ellen
+
+- Código
+
+Marcos Vinicius
